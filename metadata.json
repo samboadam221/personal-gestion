@@ -1,0 +1,8 @@
+{
+  "name": "Remix Secure Access Portal",
+  "description": "Portail d'accès sécurisé avec déchiffrement de matrice temporelle, gestion financière, contacts, projets, bloc-notes et profil personnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
